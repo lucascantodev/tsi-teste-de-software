@@ -1,0 +1,4 @@
+Collecting coverage
+  Using cached coverage-7.10.3-cp311-cp311-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl (248 kB)
+Installing collected packages: coverage
+Successfully installed coverage-7.10.3
