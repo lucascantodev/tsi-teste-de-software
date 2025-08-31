@@ -25,5 +25,5 @@ jobs:
           pip install -r requirements.txt
 
       - name: Executar Testes
-        run: |
-          pytest test/
+        working-directory: un5
+        run: mutmut run
